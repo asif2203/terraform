@@ -346,6 +346,7 @@ digraph replacement {
     a -> b_d [dir=back, style=dotted];
     b -> a_d [dir=back, style=dotted];
     b -> b_d [dir=back];
+    c -> c-d [ASIF =N];
 }
 -->
 
